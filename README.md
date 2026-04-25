@@ -1,11 +1,32 @@
+Este projeto é uma landing page desenvolvida para a Fábrica de Tecnologias Turing , com base no design criado no Figma.
 
-  # Landing Page Fábrica de Tecnologias
+Protótipo no Figma:
+https://www.figma.com/design/x9jIhsUrv8cMUPbGU2R7Ee/FTT-LANDPAGE?node-id=611-3299&t=jsSyGrOUhVaxX0Ju-1
 
-  This is a code bundle for Landing Page Fábrica de Tecnologias. The original project is available at https://www.figma.com/design/XjVSCyO6Rm9Xleo6PgstsX/Landing-Page-F%C3%A1brica-de-Tecnologias.
+Deploy (Vercel):
+https://landing-page-fz17qu5by-luizsoares-1268s-projects.vercel.app/
 
-  ## Running the code
+Tecnologias utilizadas
+HTML
+CSS
+JavaScript
+Node.js
 
-  Run `npm i` to install the dependencies.
+Como rodar o projeto localmente
 
-  Run `npm run dev` to start the development server.
-  
+Clone o repositório:
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+Acesse a pasta do projeto:
+cd nome-do-projeto
+
+Instale as dependências:
+npm install
+
+Inicie o servidor de desenvolvimento:
+npm run dev
+
+Observações:
+Projeto desenvolvido com foco em prática de front-end
+Baseado em layout profissional do Figma
+Deploy realizado utilizando a plataforma Vercel
